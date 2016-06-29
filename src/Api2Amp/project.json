@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0-*",
+  "description": "Api2Amp Console Application",
+  "authors": [ "Jonathan Agosto" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "Newtonsoft.Json": "8.0.3"
+  },
+
+  "commands": {
+    "Api2Amp": "Api2Amp"
+  },
+
+  "frameworks": {
+    "dnx451": {
+      "dependencies": {
+        "Nustache": "1.16.0.1"
+      }
+    }
+  }
+}
