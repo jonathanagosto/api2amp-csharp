@@ -14,8 +14,9 @@ Open the project in Visual Studio 2015. Build the project, and run it. Once the 
 
 ## How does it works?
 
-The application uses [jsonplaceholder.typicode.com](http://jsonplaceholder.typicode.com/) [posts](http://jsonplaceholder.typicode.com/posts) end-point as the test end-point. A file is created using a `StreamWriter`, and [Nustache](https://github.com/jdiamond/Nustache) to replace the placerholders in a template.
+The application uses [jsonplaceholder.typicode.com](http://jsonplaceholder.typicode.com/) posts end-point as the test end-point. A file is created using a `StreamWriter`, and [Nustache](https://github.com/jdiamond/Nustache) to replace the placerholders in a template.
 
 ## Questions?
 
-If you have any questions or suggestions regarding the code, please contact me: Jonathan Agosto <[hello@jonathanagosto.com](mailto:hello@jonathanagosto.com)>.
+If you have any questions or suggestions regarding the code, please contact me:  
+Jonathan Agosto <[hello@jonathanagosto.com](mailto:hello@jonathanagosto.com)>
